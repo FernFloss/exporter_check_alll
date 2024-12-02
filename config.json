@@ -1,0 +1,17 @@
+{
+    "ffprobe_path": "C:/archive/ffmpeg/bin/ffprobe.exe",
+    "wstl_path": "C:/trash/tharshuniversity/exporter_check_alll/.venv/Lib/site-packages/onvif/wsdl/",
+    "hosts": [
+        {
+            "name" : "CameraShirik",
+            "ip": "172.18.191.52",
+            "rtsp_url": [
+                "rtsp://172.18.191.52:554/1/h264major"
+            ],
+            "onvif_port": 8999,
+            "onvif_username": "admin",
+            "onvif_password": "Supervisor"
+
+        }
+    ]
+}
